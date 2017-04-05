@@ -1,0 +1,58 @@
+
+footer {
+	margin-top: 20px;
+}
+
+img {
+	border-radius: 10px;
+}
+
+h1 {
+	color: red;
+	font-family: helvetica;
+}
+
+h2, h3, h4 {
+	color: white;
+	font-family: time roman;
+}
+
+p{
+	color: blue;
+	font-family: arial;
+	font-size: 8px;
+}
+
+#zona1 {
+	background-color: #FF530D;
+}
+
+#zona2 {
+	background-color: #E82C0C;
+	display: block;
+	margin: 0 auto;
+}
+
+#zona3 {
+	background-color: #FF0000;
+}
+
+#zona4 {
+	background-color: #E80C7A;
+}
+
+#contenedor {
+	font-family: helvetica;
+}
+
+.enlaces {
+	color: red;
+	list-style-type: upper-roman;
+}
+
+body {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}

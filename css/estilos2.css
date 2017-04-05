@@ -1,0 +1,14 @@
+h1{
+	color: red;
+	font-family: helvatica;
+}
+
+h2, h3 {
+	color: blue;
+	font-family: time roma;
+}
+
+P {
+	color: white;
+	font-family: arial;
+}
